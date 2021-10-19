@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "element-icons"; /* Project id 2850070 */
+  src: url('iconfont.woff2?t=1634483163830') format('woff2'),
+       url('iconfont.woff?t=1634483163830') format('woff'),
+       url('iconfont.ttf?t=1634483163830') format('truetype');
+}
+
+.element-icons {
+  font-family: "element-icons" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-iconadduser:before {
+  content: "\e7ae";
+}
+
+.el-iconuser:before {
+  content: "\e7af";
+}
+
+.el-iconmenu:before {
+  content: "\e7f4";
+}
+
+.el-iconcaidan:before {
+  content: "\eaf1";
+}
+
+.el-iconniu:before {
+  content: "\e642";
+}
+
+.el-iconniu1:before {
+  content: "\e684";
+}
+
+.el-iconquerenmima:before {
+  content: "\e613";
+}
+
+.el-icondenglu:before {
+  content: "\e621";
+}
+
+.el-iconzhuce:before {
+  content: "\e71c";
+}
+
+.el-icontuichudenglu:before {
+  content: "\e61c";
+}
+
+.el-iconmima:before {
+  content: "\e8b2";
+}
+
+.el-iconyonghuming:before {
+  content: "\e64a";
+}
+
